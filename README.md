@@ -12,3 +12,5 @@ scalingup_analysis.R = R script of all directly relevant functions and figures t
 
 Character_List.docx = Description of all characters scored in the dataset, with citations to source materials.
 
+Colletion_Specimen_Numbers.docx = A reference for each individual used at various spirit collections.
+
