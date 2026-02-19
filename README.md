@@ -1,8 +1,10 @@
 Data Repository for "Scaling up: Contribution of the integumentary system to squamate systematics"
 
-Submitted to Science June 2024
+Submitted to Zoological Journal of the Linnean Society February 2026
 
 Files included:
+
+Supplementary_TNT_Trees = NEXUS file with taxa block and 55 generated TNT trees using only scale characters
 
 Dataset.xlsx = Character matrix for 153 Lepisosaur taxa, characters can be referenced with the included key.
 
